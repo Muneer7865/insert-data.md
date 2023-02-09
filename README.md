@@ -10,7 +10,7 @@ Insert Into students (
     class,
     mobile number
 ) values (
-    'roshan',
-    'lkg',
+    'Roshan',
+    'Lkg',
     '9988776655'
 )
